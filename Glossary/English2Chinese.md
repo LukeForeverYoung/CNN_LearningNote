@@ -1,7 +1,8 @@
 # 中英翻译
 
-| English | Chinese |
+|English|Chinese|
 |:-|:-|
-| receptive field | 感受野 |
-| latent | 潜在的 |
-|  linearly separable | 线性可分 |
+|receptive field|感受野|
+|latent|潜在的|
+|linearly separable|线性可分|
+|underlying|潜在的|
