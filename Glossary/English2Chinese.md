@@ -13,3 +13,5 @@
 |unsample|上采样|
 |padding|边界补充长度|
 |trade off|此消彼长的相互作用|
+|theoretically|理论上的|
+|spatial|空间的|

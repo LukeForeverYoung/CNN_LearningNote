@@ -59,3 +59,11 @@ So various methods have been proposed to deal with thest problems.
 * regularization
 * optimization
 
+#### Convolution layer
+
+* Tiled Convolution
+* Transposed Convolution
+* Dilated Convolution
+* Network in Network
+* Inception Module
+
