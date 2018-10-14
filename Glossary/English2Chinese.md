@@ -19,3 +19,8 @@
 |underlying|潜在的|
 |unsample|上采样|
 |orthonormal|标准正交|
+|divergence|散度(发散的强度)|
+|virtually|无形;事实上;几乎|
+|imply|暗示;说明|
+|essentially|本质上|
+|generalize|概括;泛化;推广|
